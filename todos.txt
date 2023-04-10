@@ -1,5 +1,6 @@
-Return the keys.
+Learn python.
 Visit the new museum.
 Print the pictures.
 Fix the floor.
 Buy grocery.
+
